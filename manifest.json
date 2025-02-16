@@ -1,0 +1,10 @@
+{
+	"id": "bunker",
+	"name": "Obsidian Bunker",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Allows integrating a VeraCrypt container file as a folder in Obsidian for the files that should not be left unencrypted.",
+	"author": "hallerite",
+	"authorUrl": "https://x.com/hallerite",
+	"isDesktopOnly": false
+}
